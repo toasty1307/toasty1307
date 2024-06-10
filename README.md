@@ -1,3 +1,3 @@
 👋 Hi, I’m toasty
 
-GPG key signing was setup on saturday may 25 2024.
+GPG key signing was setup on monday june 10 2024.
